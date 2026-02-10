@@ -12,7 +12,7 @@ You can view the live version of the dashboard here:
 [https://app.powerbi.com/groups/me/reports/6d4a1321-2a95-43dd-afc9-9617252bea5d?pbi_source=desktop]
 
 # 📥 To download the file:
-Click the file name on the left (Dates.pbix)
+Click the file name on the left (LumaCare Hospital Dashboard.pbix)
 
 Then click "View raw" in the middle of the page
 
